@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwunuago.github.io/Rmo/sitemap_index.txt
+Sitemap: https://iwunuago.github.io/XDo/sitemap_index.txt
+Sitemap: https://iwunuago.github.io/Yfk/sitemap_index.txt
+Sitemap: https://iwunuago.github.io/dbB/sitemap_index.txt
